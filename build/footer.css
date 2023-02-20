@@ -1,0 +1,70 @@
+.footer {
+    width: auto;
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.footer> div {
+    margin-right: auto;
+}
+
+.footer>div h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.company .links {
+    margin-bottom: 30px;
+}
+
+.company .links+h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer .copyright {
+    margin-top: 100px;
+}
+
+.footer .copyright .logo {
+    margin-bottom: 20px;
+}
+
+.footer .copyright h3 {
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer .copyright p {
+    margin-bottom: 10px;
+}
+
+.footer .copyright button {
+    color: #fff;
+    background-color: #3b4bbf;
+    padding: 10px 30px;
+    border-radius:50px;
+    position: absolute;
+    bottom: 1%;
+    right: 1%;
+}
+
+.footer .copyright button i {
+    margin-right: 10px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}

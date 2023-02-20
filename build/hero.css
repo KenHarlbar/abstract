@@ -1,0 +1,40 @@
+.hero {
+    min-height: 40vh;
+    background-color: #dadbf1;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #000;
+    text-align: center;
+    padding-top: 10vh;
+}
+
+.hero form {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.hero form input {
+    width: 30%;
+    height: 40px;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+}
+
+.hero form button {
+    height: 40px;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+    background-color: #fff;
+}
